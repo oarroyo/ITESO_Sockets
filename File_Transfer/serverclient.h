@@ -1,6 +1,6 @@
 /*
   Oswaldo Daniel Arroyo Vasquez rt689444
-  Programación de Sockets
+  Programación de Sockets 19/02/14
 */
 
 #include <sys/types.h>

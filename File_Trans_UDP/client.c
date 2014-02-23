@@ -1,5 +1,7 @@
-//Client.c
-//File Transfer
+/*
+	Autor: Oswaldo Daniel Arroyo Vasquez rt689444 Ing. Redes y Telecomunicaciones
+	Fecha: 23 de Febrero del 2014
+*/
 
 #include <stdio.h>
 #include <stdarg.h>

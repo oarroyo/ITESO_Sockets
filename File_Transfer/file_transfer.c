@@ -62,7 +62,7 @@ int main(int args, char *argv[]) {
 
 			//Inicia el protocolo...
 			//cadena = (char *) calloc(1,10);
-			cadena = "Alo!!!\r\n";
+			cadena = "Archivo.txt\r\n";
 			status=write(client1,cadena,strlen(cadena));
 			//free(cadena);
 			close(client1);

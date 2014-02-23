@@ -88,7 +88,7 @@ int start_client(int args,char *argv[],struct sockaddr_in *server_addr) {
 	printf("Status connect: %d \n",status);
 	if(status != 0) {
 		localerror = errno;
-		printf("Error al conectarnos (%s)\n",strerror(localerror));
+		printf("Error to conect (%s)\n",strerror(localerror));
 		return 1;
 	}
 

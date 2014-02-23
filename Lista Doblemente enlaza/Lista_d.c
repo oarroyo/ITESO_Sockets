@@ -4,7 +4,7 @@
 
    Codigo ejemplo del uso de una lista simplemente enlanzada.
 
-   \author Alvaro Parres
+   \author Oswaldo Arroyo
    \date   01/2014
 */
 
